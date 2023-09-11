@@ -23,7 +23,7 @@ body {
 }
 
 /* Style the Latest News section */
-.Latest-News {
+.latest-news-section{
     background-color: #FFFEFF;
     padding:20px;
     width: 10%;
@@ -33,7 +33,7 @@ body {
 } 
 
 /* Style the Pictorial News section */
-.Pictorial-News{
+.pictorial-news-section{
 /*    color:#FFFEFF; */
     padding: 20px;
     width: 150%;
@@ -43,12 +43,12 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Add a subtle shadow */
 }
 
-.Pictorial-News h3 {
+.pictorial-news-section h3 {
 	text-align:Center;
    padding-bottom:20px;
 }
 
-.Pictorial-News img {
+.pictorial-news-section img {
     max-width: 100%;
     
     margin: 10px;
@@ -57,9 +57,9 @@ body {
 .para{
 	 background-color: #FFFEFF;
     padding: 20px;
-    width: 200%;
+    width: 190%;
     margin: 20px; /* Center the section horizontally */
-	height:180px;
+	height:190px;
 }
 .para h2{
 	text-align:center;
